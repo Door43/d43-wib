@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wib:home|Door43 (wib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wib|d43-wib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wib/archive/master.zip|d43-wib.zip]]
+
+**Recent Changes**
+{{changes>ns = wib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wib|Ethnologue data]]
+
